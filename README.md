@@ -1,6 +1,8 @@
 # DemoFridayApp
 CODE CHALLENGE
 
+**Framework used: Spring Boot.**
+
 Addressline
 An address provider returns addresses only with concatenated street names and numbers. Our own system on the other hand has separate fields for street name and street number.
 
@@ -24,4 +26,3 @@ Consider other countries (complex cases)
 "Calle 39 No 1540" -> {"street": "Calle 39", "housenumber": "No 1540"}
 Your Task:
 
-**Framework used: Spring Boot.**
