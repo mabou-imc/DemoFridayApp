@@ -24,5 +24,4 @@ Consider other countries (complex cases)
 "Calle 39 No 1540" -> {"street": "Calle 39", "housenumber": "No 1540"}
 Your Task:
 
-Write a running application in the programming language of your choice including test cases and send the source code back to jobs@friday.de. 
-Please ensure to include a quick note in your mail which programming language you used so that we can give you quick & valuable feedback afterwards.
+Framework used: Spring Boot.
